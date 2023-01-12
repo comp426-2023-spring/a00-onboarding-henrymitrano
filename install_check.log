@@ -1,0 +1,8 @@
+Install checked: 
+
+SYSTEM:	Darwin henrys-air-2.wireless-1x.unc.edu 19.5.0 Darwin Kernel Version 19.5.0: Tue May 26 20:41:44 PDT 2020; root:xnu-6153.121.2~2/RELEASE_X86_64 x86_64
+SHELL:	[/bin/bash]
+GIT:	[/usr/bin/git] git version 2.24.3 (Apple Git-128)
+VIM:	[/usr/bin/vim] VIM - Vi IMproved 8.1 (2018 May 18, compiled Apr 17 2020 17:49:10)
+CURL:	[/Applications/MAMP/Library/bin/curl] curl 7.65.1 (x86_64-apple-darwin14.5.0) libcurl/7.65.1 OpenSSL/1.0.2o zlib/1.2.8 nghttp2/1.29.0
+NODE:	[/Users/henrymitrano/.nvm/versions/node/v18.13.0/bin/node] v18.13.0
